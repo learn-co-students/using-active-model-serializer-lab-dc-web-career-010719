@@ -30,6 +30,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Unicorn as the app server
 # gem 'unicorn'
 
+# User Active Model Serializers
+gem 'active_model_serializers'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
